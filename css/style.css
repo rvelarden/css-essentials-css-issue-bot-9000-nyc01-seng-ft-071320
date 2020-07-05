@@ -12,6 +12,7 @@ font-style : italic;
 }
 .completed {
 font-family : "helvetica";
+font-size: 12px;
 }
 #tasks .completed {
 background-color : #ccc;
